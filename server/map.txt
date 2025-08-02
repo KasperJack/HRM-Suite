@@ -1,0 +1,25 @@
+📘 Mapping Logic:
+
+    Username → username
+
+    CreatedAt → created_at
+
+    IsAdmin → is_admin
+
+    FullName → full_name
+
+
+
+
+
+
+tables
+
+
+
+
+Go Struct Name	GORM Table Name (auto)
+User	users
+BlogPost	blog_posts
+OrderItem	order_items
+Product	products
